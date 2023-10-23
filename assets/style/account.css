@@ -1,0 +1,36 @@
+@import url('./reset/reset.css');
+@import url('./fonts/fonts.css');
+
+/*vars*/
+
+:root {
+    --main: 'Neue Machina';
+    --additional: 'OCR A';
+    --black: #000000;
+    --white: #ffffff;
+
+}
+
+html, body {
+    font-size: 10px
+}
+
+
+body {
+    width: 100%;
+    max-width: 1920px;
+    height: 100vh;
+
+
+
+    margin: 0 auto;
+
+
+    font-family: var(--additional);
+    font-weight: 700;
+
+    background: transparent linear-gradient(122deg, #1b145d 0%, #540e57 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+
+}

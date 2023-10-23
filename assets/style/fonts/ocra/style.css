@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OCR A';
+    src: local('OCR A Regular'), local('OCR-A-Regular'),
+        url('OCRAStd.woff2') format('woff2'),
+        url('OCRAStd.woff') format('woff'),
+        url('OCRAStd.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
