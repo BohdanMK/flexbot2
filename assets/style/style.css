@@ -806,6 +806,7 @@ body.hidden .page{
 .content__prices-list {
     display: flex;
     gap: 20px;
+    padding: 25px 0 35px 0;
 
     /* overflow: hidden; */
 
